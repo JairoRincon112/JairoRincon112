@@ -10,8 +10,9 @@
 ## **About me**
 
 <picture> 
-  <img align="right" src="https://i.pinimg.com/originals/77/2d/10/772d10c3d5872a678496f8e82785ab3c.gif" width="250px">
+  <img align="right" src="https://i.imgur.com/2R7Q7Jp.gif" width="250px">
 </picture>
+
 
 <br>
 
