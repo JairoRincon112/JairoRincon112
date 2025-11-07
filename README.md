@@ -9,9 +9,10 @@
 
 ## **About me**
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width="260px">
+<div align="center" style="margin-top: 20px; margin-bottom: -10px;">
+  <img src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width="260px" style="position: relative; top: 10px;">
 </div>
+
 
 
 <br>
