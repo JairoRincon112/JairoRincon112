@@ -1,15 +1,14 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=FronEnd%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FronEnd%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFA500&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 ## **About me**
-
-<picture> <img align="right" src="[https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif(https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif)" width = 200px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width = 200px></picture>
 
 <br>
 
@@ -20,16 +19,10 @@
 - 🤝 Responsible, committed, and always willing to collaborate
 - 🔥 Passionate about what I do, always giving 100%
 
-[ortegadev.site](https://ortegadev.site/)
 <br>
 
-  <div style="margin-left: 40px;">
-    <img src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width="220px" style="border-radius: 10px;">
-  </div>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -81,7 +74,7 @@
 
 <div align="center">
 
-<a href="https://github.com/OrtegaNidddd/">
+<a href="https://github.com/JairoRincon112/">
 	
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -89,12 +82,12 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OrtegaNidddd&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JairoRincon112&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OrtegaNidddd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JairoRincon112&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -113,12 +106,12 @@
 
 <br>
 
-<a href="https://www.instagram.com/nick._.ortega/" target="_blank">
+<a href="https://www.instagram.com/jr8488157/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 
 <br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orteganid@gmail.com&su=Hola%20nick,%20quiero%20hablar%20contigo&body=Escribe%20tu%20mensaje%20aqui" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jr8488157.com&su=Hola%20Jairo,%20quiero%20hablar%20contigo&body=Escribe%20tu%20mensaje%20aqui" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
@@ -129,7 +122,7 @@
 <div align='center'>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=true&lines=Te+has+comunicado+con+el+tel%C3%A9fono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFA500&size=25&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=true&lines=Te+has+comunicado+con+el+tel%C3%A9fono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.">
 </a>
 </p>
 </div>
@@ -137,6 +130,6 @@
 ## Trofeos de GitHub
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JairoRincon112&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
 </p>
 
