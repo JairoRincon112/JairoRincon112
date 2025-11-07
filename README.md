@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=FronEnd%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -9,7 +9,9 @@
 
 ## **About me**
 
-<picture> <img align="right" src="https://media.tenor.com/f3gYMgbPfEQAAAAi/dansi-cat-dance.gif" width = 250px></picture>
+<picture> 
+  <img align="right" src="https://i.pinimg.com/originals/77/2d/10/772d10c3d5872a678496f8e82785ab3c.gif" width="250px">
+</picture>
 
 <br>
 
