@@ -9,18 +9,19 @@
 
 ## **About me**
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>🎓 Software Engineering Student</li>
-      <li>💻 Currently learning Web Development (Laravel & Vue)</li>
-      <li>🧩 Interested in Cybersecurity</li>
-      <li>⚙️ Agile and efficient work, without sacrificing quality</li>
-      <li>🤝 Responsible, committed, and always willing to collaborate</li>
-      <li>🔥 Passionate about what I do, always giving 100%</li>
-    </ul>
-    <a href="https://ortegadev.site">ortegadev.site</a>
-  </div>
+<picture> <img align="right" src="[https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif(https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif)" width = 250px></picture>
+
+<br>
+
+- 🎓 Software Engineering Student
+- 💻 Currently learning Web Development (Laravel & Vue)
+- 📚 Interested in Cybersecurity
+- 🕒 Agile and efficient work, without sacrificing quality
+- 🤝 Responsible, committed, and always willing to collaborate
+- 🔥 Passionate about what I do, always giving 100%
+
+[ortegadev.site](https://ortegadev.site/)
+<br>
 
   <div style="margin-left: 40px;">
     <img src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width="220px" style="border-radius: 10px;">
