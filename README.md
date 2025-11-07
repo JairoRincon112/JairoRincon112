@@ -10,7 +10,7 @@
 ## **About me**
 
 <picture> 
-  <img align="right" src="https://i.imgur.com/2R7Q7Jp.gif" width="250px">
+  <img align="right" src="https://i.gifer.com/V32E.gif" width="250px">
 </picture>
 
 
