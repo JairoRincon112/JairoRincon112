@@ -30,41 +30,30 @@
 
 **Front-End Development**:
 <br>
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Back-End Development**:
-<br>
-   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06529?logo=html5&logoColor=white&labelColor=f06529)
+![CSS3](https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=white&labelColor=2965f1)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&labelColor=f7df1e)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white&labelColor=42b883)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&labelColor=38B2AC)
 
 **Databases**:
 <br>
-	![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-	![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=336791)
  
 **Languages**:
 <br>
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	
-**API Testing**:
-<br>
-   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=3776AB)
 
 
 **Tools**:
 <br>
-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=181717)
 
 **Project & Task Management**
-
-<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+<br>
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&labelColor=0052CC)
 
 </div>
 
@@ -111,7 +100,7 @@
 
 <br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jr8488157.com&su=Hola%20Jairo,%20quiero%20hablar%20contigo&body=Escribe%20tu%20mensaje%20aqui" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=jr8488157@gmail.com&su=Hola+Jairo,+quiero+hablar+contigo&body=Escribe+tu+mensaje+aqui&tf=cm" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
