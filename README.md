@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=43c5ef#&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=#FFFFFF&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20Developer%20Jr%20&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=43c5ef&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr%20&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+FrontEnd+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 ## **About me**
 
-<picture> <img align="right" src="[https://media.tenor.com/BpGTha6Y6eEAAAAM/biker-bikers.gif]" width = 150px></picture>
+<picture> <img align="right" src="https://media.tenor.com/f3gYMgbPfEQAAAAi/dansi-cat-dance.gif" width = 250px></picture>
 
 <br>
 
