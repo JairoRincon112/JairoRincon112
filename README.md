@@ -1,23 +1,25 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FronEnd%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Jairo%20Rincon&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Self-taught+Fron-End%20Developer%20Jr&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFA500&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFA500&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=Success+is+not+measured+by+goals+achieved,++;+but+by+the+passion+with+which+you+pursue+them+ღ;Software+Engineering+Student,;Active+Learner+/+Researcher,;I'm+motivated+to+learn+new+knowledge...ツ"></a>
 </p>
+<br>
+
 
 ## **About me**
 <picture> <img align="right" src="https://i.pinimg.com/originals/37/2f/3b/372f3baf1f09ed566468d730ea8139b3.gif" width = 200px></picture>
 
 <br>
 
-- 🎓 Software Engineering Student
-- 💻 Currently learning Web Development (Laravel & Vue)
-- 📚 Interested in Cybersecurity
-- 🕒 Agile and efficient work, without sacrificing quality
-- 🤝 Responsible, committed, and always willing to collaborate
-- 🔥 Passionate about what I do, always giving 100%
+- Software Engineering Student
+- Currently learning Web Development (Vue and Tailwind CSS)
+- Interested in Cybersecurity
+- Agile and efficient work, without sacrificing quality
+- Responsible, committed, and always willing to collaborate
+- Passionate about what I do, always giving 100%
 
 <br>
 
