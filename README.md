@@ -14,12 +14,9 @@
 
 <br>
 
-- Software Engineering Student
-- Currently learning Web Development (Vue and Tailwind CSS)
-- Interested in Cybersecurity
-- Agile and efficient work, without sacrificing quality
-- Responsible, committed, and always willing to collaborate
-- Passionate about what I do, always giving 100%
+<p align="justify">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFA500&size=25&justify=true&vjustify=true&width=700&height=180&&multiline=true&repeat=true&lines=➶+Software+Engineering+Student+FESC++;+➶+Currently+learning+Web+Development+(Vue);➶+Interested+in+Cybersecurity;➶+Responsible,+committed+or+willing+to+collaborate;➶+I+like+what+I+do,+I,+always+give+my+best"></a>
+</p>
 
 <br>
 
